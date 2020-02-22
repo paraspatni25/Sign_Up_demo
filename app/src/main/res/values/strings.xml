@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello_world_demo</string>
+    <string name="this_shit_is_lit_bro">This Shit Is Lit Bro</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="to">TODO</string>
+</resources>
